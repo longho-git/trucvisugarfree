@@ -465,7 +465,7 @@ body.dark-theme{
 }
 
 .about_img{
-  width: 300px;
+  width: 400px;
   justify-self: center;
 }
 
@@ -1025,7 +1025,7 @@ body.dark-theme{
     padding: 10px;
     box-shadow: 10px 10px 8px #aaaaaa
   }
-  }
+  
   
 
   .about_data .section_subtitle{
@@ -1206,8 +1206,8 @@ body.dark-theme{
   }
   .scrollup{right: 3rem;}
 
+  .card-4{
+    display: none;
+  }
 
-/* @media screen and(min-width:1064px) {
-  .container {margin-inline: auto;}
-  
-} */
+}
