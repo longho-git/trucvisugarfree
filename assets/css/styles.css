@@ -142,6 +142,10 @@ body.dark-theme{
   color: #000;
 }
 
+.dark-theme .newsletter_data .section_title{
+  color:#DDF2E8;
+}
+
 .dark-theme .button:hover{
   background-color: #313E21;
   color: #FFF;
@@ -636,8 +640,18 @@ body.dark-theme{
 
 .newsletter_data{
   padding: 2rem;
-  background-color:#81caa3b6;
+  background-color:rgba(250, 235, 215, 0.63);
   border-radius: 2rem;
+}
+
+.newsletter_data .section_title
+{
+  color: #313E21;
+}
+
+
+.newsletter_data .section_subtitle{
+  color: #F5A408;
 }
 /*=============== FOOTER ===============*/
 .footer{
