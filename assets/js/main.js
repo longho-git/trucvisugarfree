@@ -110,7 +110,7 @@ const sr = ScrollReveal({
 
 sr.reveal(`.home_img, .home-img, .newsletter_container, .footer_logo, .footer_description, .footer_content`)
 sr.reveal(`.home_data`, {origin: 'bottom'})
-sr.reveal(`.about_data, .recently_data `,{origin: 'left'})
+sr.reveal(` .recently_data `,{origin: 'left'})
 sr.reveal(`.about_img, .recently_img`, {origin: 'right'})
 // sr.reveal(`..home_container, .recently_img`, {origin: 'right'})
 sr.reveal(`.popular_card`, {interval: 100})
