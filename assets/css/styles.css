@@ -295,13 +295,7 @@ body.dark-theme{
   scale: 120%;
 }
 
-.about_container {
-  /* background-color:#81CAA3; */
-  /* padding:  1rem ;
-  margin: 1rem; */
-  /* border-radius: 2rem; */
-  /* border: solid 1px; */
-}
+
 @media screen and (max-width: 767px) {
     .nav_menu{
       position: fixed;
@@ -1236,9 +1230,9 @@ body.dark-theme{
     padding: 8px 8px 8px 24px;
   }
 
-  .newsletter_container{
+  /* .newsletter_container{
     /* padding-left: 1rem; */
-  }
+ */
   .newsletter_button{
     font-size: var(--normal-font-size);
   }
